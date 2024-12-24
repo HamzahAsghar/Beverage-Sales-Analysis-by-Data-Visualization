@@ -33,14 +33,6 @@ To analyze U.S. beverage sales data and provide actionable insights into revenue
 3. **State-Level Analysis:** Identifies top-performing states and their revenue contributions.
 4. **Brand-Wise Breakdown:** Interactive filters to analyze performance by individual brands.
 
- 
-
-## Usage
-1. Clone or download this repository.
-2. Open the Power BI file to explore the dashboard interactively.
-3. Analyze sales performance across brands, states, and time periods.
-
-
 
 ## Recommendations
 1. Focus on high-revenue months (e.g., July, December) with targeted campaigns.
